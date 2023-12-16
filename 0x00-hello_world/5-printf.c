@@ -3,10 +3,10 @@
 /**
  * main - this is the main action
  *
- * return: 0 always
+ * return: always 0
  */
 
 int main(void)
-{	printf("with proper grammar, but the outcome is a piece of art,");
+{	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
